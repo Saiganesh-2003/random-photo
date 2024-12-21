@@ -1,0 +1,52 @@
+.container{
+    padding: 30px;
+    text-align: center;
+}
+#para{
+    color: grey;
+}
+.second-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+#numbering{
+    border: 1px solid black;
+    margin-top: 15px;
+    padding: 20px;
+    width: 60px;
+    
+    
+}
+.button{
+    margin-top: 15px;
+    margin-left: 30px;
+    /* background-color: black; */
+    text-align: center;
+    margin-right: 30px;
+    
+    
+    
+    
+}
+.num{
+    text-align: center;
+    
+}
+#btn{
+    width: 90px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+
+#imagescontainer{
+   
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
